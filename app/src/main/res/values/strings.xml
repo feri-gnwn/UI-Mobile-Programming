@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">prakpm</string>
+    <string name="card_content_description">prakpm</string>
+    <string name="content_desc">Start with Jetpack Compose, Material Design, and the patterns students can reproduce in class.</string>
+
+</resources>
